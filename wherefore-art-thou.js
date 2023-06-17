@@ -22,7 +22,7 @@ function whatIsInAName(collection, source) {
       result.push ( collection[i]);
     }
   }
-  console.log(result)
+
   return result;
 }
 
